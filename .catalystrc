@@ -1,0 +1,29 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "1468000000008001",
+      "name": "foodogram",
+      "domain": {
+        "id": "50010663718",
+        "name": "foodogram-60016553097.development"
+      },
+      "env": [
+        {
+          "idx": 1,
+          "id": "60016553097",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
